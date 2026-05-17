@@ -1,7 +1,5 @@
 # JavaScriptFaccat
 
-# JavaScript Faccat
-
 Repositório criado para armazenar exercícios de lógica de programação e algoritmos utilizando JavaScript, baseados nas atividades da apostila Faccat.
 
 O objetivo deste projeto é praticar conceitos fundamentais da programação, desenvolver raciocínio lógico e fortalecer a base em JavaScript através da resolução de exercícios clássicos.
